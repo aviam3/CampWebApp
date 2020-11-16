@@ -1,0 +1,21 @@
+<%- include("../partials/hader") -%>
+	<div class="container">
+		<div class="row">
+			<h1 style="text-align: center">Creat a New Campground</h1>
+			
+				<form action="/campgrounds" method="POST">
+					<input class="from-conrtol" type="text"  name="name" placeholder="name camp">
+					<input class="from-conrtol" type="text" name="image" placeholder="image url">
+					<input class="from-conrtol" type="number"  name="price" placeholder="$" min="0.01" step="0.01">
+					<input class="from-conrtol" type="text"  name="description" placeholder="write description..">
+					<button class="btn btn-lg btn-primary">Sumbit!</button>
+				</form>
+				
+			
+				
+			<a href="/campgrounds">Go Back</a>
+				
+		</div>
+	</div>
+
+<%- include("../partials/footer") -%>
