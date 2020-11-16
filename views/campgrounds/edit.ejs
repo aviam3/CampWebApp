@@ -1,0 +1,21 @@
+<%- include("../partials/hader") -%>
+	<div class="container">
+		<div class="row">
+			<h1 style="text-align: center">Edit <%=campground.name%></h1>
+			
+				<form action="/campgrounds/<%=campground._id %>/?_method=PUT" method="POST">
+					<input class="from-conrtol" type="text"  name="campground[name]"  value=<%=campground.name%>  >
+					<input class="from-conrtol" type="text"   name="campground[image]" value=<%=campground.image%>>
+					<input class="from-conrtol" type="number"  name="campground[price]" placeholder="$" min="0.01" step="0.01" value=<%=campground.price%>>
+					<input class="from-conrtol" type="text"  name="campground[description]" value=<%=campground.description%>>
+					<button class="btn btn-lg btn-primary">Sumbit!</button>
+				</form>
+				
+			
+				
+			<a href="/campgrounds">Go Back</a>
+				
+		</div>
+	</div>
+
+<%- include("../partials/footer") -%>
