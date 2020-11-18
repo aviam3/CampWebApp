@@ -33,8 +33,9 @@ NodeJs, Bootstrap, MongoDB
 ```sh
   npm start
   ```
-
-
+## See the Website
+Open Browser and type: `http://localhost:[Write PORT]/`
+######  At this repo the PORT is: 3000 [click]
 # Main Features 
 - User Authentication
 - 
@@ -60,7 +61,7 @@ From now on any action we take in the database, we can see in VS code.
 
  
 
-
+[click]: <http://localhost:3000/>
 [mongoDB]: <https://www.mongodb.com/try/download/community>
 [NodeJS]: <https://nodejs.org/en/download>
 [git]: <https://git-scm.com/downloads>
