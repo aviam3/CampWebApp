@@ -44,3 +44,8 @@ Open a browser and type: `http://localhost:[Write PORT]/`
 ### Connect Visual Studio Code to mongoDB
 Install `MongoDB` Extensions within VS Code. Bring up these Extensions by clicking on the `MongoDB` icon in the Activity Bar on the side of the VS Code. To connect to a MongoDB database, Under the CONNECTIONS tab click on the tree points and select the second option "Add MongoDB connection String". In the Explorer context menu paste the URI connection DB in app.js: `mongodb://localhost/[Choice Your DataBase Name]` From now on for any action you make in the database, you can see the change in the VS Code
 ##### Note: mongo.exe service is running in the background (Ctrl+Alt+Del).
+
+[click]: <http://localhost:3000/>
+[mongoDB]: <https://www.mongodb.com/try/download/community>
+[NodeJS]: <https://nodejs.org/en/download>
+[git]: <https://git-scm.com/downloads>
