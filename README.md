@@ -3,11 +3,8 @@
 
 ![20201122002839-627749acae gif-2-mp4 com](https://user-images.githubusercontent.com/45168914/99888005-aeb4f500-2c51-11eb-924c-82655cf9c0f6.gif)
 
-
 ## Technologies
 NodeJs, Bootstrap, MongoDB, RESTfull API, jQuery, Server-side rendering with EJS, User Authentication (with Passport)
-
-
  
 ## My motivation to do this project
 Every day we use the internet and browse through lots of web applications.
@@ -19,21 +16,21 @@ it works under the hood are the reasons that motivated me to build CampWebApp.
 Prerequisites: [git] , [NodeJS] and [mongoDB] must be installed on your computer.
     
 1. Clone the repository
-sh
+```sh
    git clone https://github.com/aviam3/CampWebApp.git
-
+```
 2. Change the working directory 
-sh
+```sh
   cd CampWebApp\
-
+```
 3. Install dependencies
-sh
+```sh
   npm install
-
+```
 4. Run the app
-sh
+```sh
   npm start
-  
+```  
 ## View the Website
 Open a browser and type: `http://localhost:[Write PORT]/`
 ######  In this repo the PORT is: 3000 [click]
