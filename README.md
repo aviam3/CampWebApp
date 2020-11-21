@@ -34,9 +34,7 @@ Before all this process checks if: [git] , [NodeJS] and [mongoDB] are installed 
 ## See the Website
 Open Browser and type: `http://localhost:[Write PORT]/`
 ######  At this repo the PORT is: 3000 [click]
-# Main Features 
-- User Authentication
-- 
+
 
 ## New things I learned beyond the project itself
 - Improved my GitHub abilities
