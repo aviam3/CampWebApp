@@ -1,8 +1,8 @@
 # CampWebApp
-### A Web Application that built using: NodeJs, Bootstrap, MongoDB.
+### Web application for camps management
 ![image](https://user-images.githubusercontent.com/45168914/99384245-ce59bf80-28d7-11eb-8d89-ed9d8e295459.png)
 
-## Description
+
 
 
 
