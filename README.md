@@ -1,7 +1,8 @@
 # CampWebApp
 ### Web application for camps management
 
-![image](https://user-images.githubusercontent.com/45168914/99384245-ce59bf80-28d7-11eb-8d89-ed9d8e295459.png)
+![20201122002839-627749acae gif-2-mp4 com](https://user-images.githubusercontent.com/45168914/99888005-aeb4f500-2c51-11eb-924c-82655cf9c0f6.gif)
+
 
 ## Technologies
 NodeJs, Bootstrap, MongoDB, RESTfull API, jQuery, Server-side rendering with EJS, User Authentication (with Passport)
