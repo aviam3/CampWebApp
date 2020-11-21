@@ -1,21 +1,19 @@
 # CampWebApp
 ### Web application for camps management
+
 ![image](https://user-images.githubusercontent.com/45168914/99384245-ce59bf80-28d7-11eb-8d89-ed9d8e295459.png)
 
-
-
-
-
-## What my motivition to this Project
-CampWebApp is my First Web Appication i builde. Because every day we used with Web and Browser's. 
-The thinking that i dont know anything about is mystry myself.
-
 ## Technologies
-NodeJs, Bootstrap, MongoDB
+NodeJs, Bootstrap, MongoDB, RESTfull API, jQuery, Server-side rendering with EJS, User Authentication (with Passport)
+ 
+## What my motivition to this Project
+CampWebApp is the First Web Application I build. Because every day we used with Web and Browser. 
+The thinking that I don't know anything about is mystery myself.
+
 
 ## Installation
 
- Before all this process check if: [git] , [NodeJS] and [mongoDB] are installed on your computer.
+Before all this process checks if: [git] , [NodeJS] and [mongoDB] are installed on your computer.
     
 1. Clone the repository
 ```sh
@@ -42,21 +40,14 @@ Open Browser and type: `http://localhost:[Write PORT]/`
 
 ## New things I learned beyond the project itself
 - Improved my GitHub abilities
-- Explore web pages By the browser DevTools
+- Explore Web Pages By the browser DevTools
 - HTTP Protocol
--
 
-## Links thit helps me
-
-## Extra
 ### Conect Visual Studio Code to mongoDB
-Install `mongoDB` Extensions within VS Code.
-Bring up this Extensions  by clicking on the `mongoDB` icon in the Activity Bar on the side of VS Code.
-To connect to a MongoDB database, Under the CONNECTIONS tab click on the tree point's and Select the second option "Add MongoDb connection String".
-In Explorer context menu paste the URI connection DB in app.js:
-`mongodb://localhost/[Choice Your DataBase Name]`
-From now on any action we take in the database, we can see in VS code.
+Install `MongoDB` Extensions within VS Code. Bring up these Extensions by clicking on the `MongoDB` icon in the Activity Bar on the side of the VS Code. To connect to a MongoDB database, Under the CONNECTIONS tab click on the tree points and select the second option "Add MongoDb connection String". In the Explorer context menu paste the URI connection DB in app.js: `mongodb://localhost/[Choice Your DataBase Name]` From now on any action you take in the database, You can see the change in the VS Code
 ##### Note: That this mongo.exe service is running in the background (Ctrl+Alt+Del).
+
+
 ## Lincence
 
  
